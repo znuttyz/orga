@@ -12,7 +12,7 @@ class Home extends Component {
 						<Nav/>
 					</div>
 					<div className="homeBox">
-						<img src="./assets/img/bonn-logo2.png" alt="logo" style={{height: '75px', paddingTop: '6px', cursor: 'pointer'}}/>
+						<img src="./assets/img/bonn-logo.png" alt="logo" style={{height: '75px', paddingTop: '6px', cursor: 'pointer'}}/>
 					</div>
 					<div className="homeBox">
 						<Nav2/>
