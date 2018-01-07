@@ -1,21 +1,23 @@
-.homeHeadContainer {
+.headerContainer {
 	display: flex;
-	margin: 0.5% 0;
+	padding: 0.5% 0;
+	border-bottom: 1px solid #d2d2d2;
+;
 
-	.homeBox {
+	.headerBox {
 		flex: 1;
 	    display: flex;
 	    justify-content: center;
 	}
 }
 
-.homeContainer {
+.container {
 	position: relative;
 	width: 1200px;
 	margin: 0 auto;
 	padding: 15px 0;
 
-	.homeDesc {
+	.desc {
 		line-height: 2em;
 		text-align: center;
 		margin-top: 20px;

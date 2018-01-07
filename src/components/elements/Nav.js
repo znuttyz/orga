@@ -5,7 +5,7 @@ const Nav = () => {
 	return (
 		<ul className="navigation">
 			<li className="body-dropdown">
-				<a>BATH & BODY</a>
+				<a href="Product">BATH & BODY</a>
 				<div className="body-drop">
 					<p>Body 1</p>
 					<p>Body 2</p>

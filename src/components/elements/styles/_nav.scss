@@ -9,7 +9,6 @@ ul {
   padding: 0 10px;
   /*border: 1px solid rgba(238,238,238 ,1);*/
   // border-radius: 5px;
-  color: rgba(117,117,117 ,1);
   // margin-bottom: 0;
 }
 
@@ -22,7 +21,7 @@ ul {
 	margin-right: auto
 }
 
-.navigation li:hover{
+.navigation li a:hover{
   color: rgba(85,172,238 ,1);
 }
 
@@ -31,6 +30,7 @@ ul {
 	padding: 15px;
 	word-spacing: 1px;
 	letter-spacing: 1px;
+  color: rgba(117,117,117 ,1);
 }
 
 .body-drop {
